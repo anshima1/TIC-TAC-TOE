@@ -1,0 +1,21 @@
+tr{
+  text-align: center;
+  padding:0px;
+  font: Helvetica;
+  font-size: 30px;
+}
+td{
+  border: 5px solid blue;
+  width: 150px;
+  height: 150px;
+  font-size: 100px;
+
+}
+#Refreshbtn{
+  border-radius: 0px;
+
+  background-color: blue;
+  color: white;
+  text-align: center;
+  border:5px;
+}
