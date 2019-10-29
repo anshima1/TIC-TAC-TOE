@@ -1,4 +1,4 @@
-console.log("connected");
+console.log("Connection established");
 
 /*function mycode(){
   var l={a11:'#a11',b22:'#b22',c33:'#c33'}
